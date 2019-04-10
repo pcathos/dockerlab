@@ -1,4 +1,5 @@
 #This is a zhushi
+FROM scratch
 
 
 
